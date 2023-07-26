@@ -21,4 +21,4 @@ jobs:
       - name: Tag version
         uses: borales/actions-yarn@v4
         with:
-          cmd: yarn version
+          cmd: version
